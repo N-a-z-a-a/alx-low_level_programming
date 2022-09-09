@@ -1,1 +1,1 @@
-This is an intro to C programming
+More on C
