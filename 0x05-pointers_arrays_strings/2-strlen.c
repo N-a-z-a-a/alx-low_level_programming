@@ -2,7 +2,6 @@
 #include <string.h>
 
 /**
- *
  * _strlen - check the code
  * @s: str
  * Return: Always 0.
